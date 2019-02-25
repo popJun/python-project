@@ -1,0 +1,16 @@
+README.rst
+setup.cfg
+setup.py
+pyhooks/__init__.py
+pyhooks/hooks.py
+pyhooks/tags.py
+pyhooks/utils.py
+pyhooks.egg-info/PKG-INFO
+pyhooks.egg-info/SOURCES.txt
+pyhooks.egg-info/dependency_links.txt
+pyhooks.egg-info/top_level.txt
+tests/__init__.py
+tests/conftest.py
+tests/hooks.py
+tests/tags.py
+tests/utils.py
